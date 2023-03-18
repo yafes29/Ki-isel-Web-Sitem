@@ -1,0 +1,74 @@
+@keyframes sağdanGelenyazı{
+
+    0%{
+        transform: translateX(-50%);
+
+    }
+
+    70%{
+        transform: translateX(20%);
+
+    }
+
+    100%{
+        transform: translateX(0%);
+
+    }
+
+
+}
+
+@keyframes soldanGelenyazı{
+
+    0%{
+        transform: translateX(50%);
+
+    }
+
+    70%{
+        transform: translateX(-20%);
+
+    }
+
+    100%{
+        transform: translateX(0%);
+
+    }
+
+
+}
+
+
+@keyframes ortayaCık {
+
+    0%{
+        transform: scale(0%);
+    }
+
+    50%{
+
+        transform: scale(20%);
+    }
+
+    100%{
+
+        transform: scale(100%);
+    }
+
+
+}
+
+@keyframes ortayaCık2 {
+
+    0%{
+        transform: scale(.5);
+    }
+
+   
+    100%{
+
+        transform: scale(1);
+    }
+
+
+}
